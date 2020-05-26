@@ -40,7 +40,8 @@ node --version
 4. Otvoriti aplikaciju na adresu `localhost:8080`
 
 
-# Angular (Svi folderi se nalaze u `folder_projekta/frontend/src/`
+# Angular
+## Svi folderi se nalaze u `folder_projekta/frontend/src/`
 - app/app-routing.module.ts
 
    Koji linkovi vode do kojih komponenti
